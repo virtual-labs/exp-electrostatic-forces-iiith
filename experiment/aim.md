@@ -1,1 +1,1 @@
-### Aim of the experiment
+Electronegative atoms attract electrons more than electropositive atoms. This gives rise to uneven charge distribution in the molecule, the most common ways to represent charge distribution as point charges localised in the molecule. We then use coloumb's potential for point charges to estimate the forces between charged portions and uncharged portions. 
