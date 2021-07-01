@@ -14,4 +14,4 @@ F=kq<sub>i</sub>q<sub>j</sub>/r<sup>2</sup>
 
 The electrical potential energy for m no of molecules interacting with n no of molecules is given by
  
-U=¡Æ<sub>i</sub><sup>m</sup>kqQ/r
+U=âˆ‘<sub>i</sub><sup>m</sup>kqQ/r
