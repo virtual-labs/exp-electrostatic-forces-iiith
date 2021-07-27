@@ -1,0 +1,37 @@
+[
+{"question":"1. Electrostatic interaction is a bonded interaction.",
+"answers":{
+            "a":"True",
+            "b":"False"
+          },
+"correctAnswer":"b"},
+
+{"question":"2. The electrostatic force between two charged particles is inversely proportional to r3?",
+"answers":{
+            "a":"True",
+            "b":"False"
+          },
+"correctAnswer":"b"},
+
+{"question":"3. The electrostatic potential energy is inversely proprotional to 1/r ",
+"answers":{
+            "a":"True",
+            "b":"False"
+          },
+"correctAnswer":"a"}, 
+
+{"question":"4. Electrostatic interactions are longest ranged intermolecular interactions.",
+"answers":{
+            "a":"True",
+            "b":"False"
+          },
+"correctAnswer":"a"},
+
+{"question":"5. Electrostatic potential is a vector quantity.",
+"answers":{
+            "a":"True",
+            "b":"False"
+          },
+"correctAnswer":"a"}
+
+]
