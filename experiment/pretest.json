@@ -18,20 +18,5 @@
             "a":"True",
             "b":"False"
           },
-"correctAnswer":"a"}, 
-
-{"question":"4. Electrostatic interactions are longest ranged intermolecular interactions.",
-"answers":{
-            "a":"True",
-            "b":"False"
-          },
-"correctAnswer":"a"},
-
-{"question":"5. Electrostatic potential is a vector quantity.",
-"answers":{
-            "a":"True",
-            "b":"False"
-          },
 "correctAnswer":"a"}
-
 ]
